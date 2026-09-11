@@ -39,7 +39,7 @@ export default function Hero() {
         className="inline-flex items-center gap-2 mb-6 px-4 py-1.5 rounded-full border border-accent-500/30 bg-accent-500/8 text-accent-300 text-xs font-semibold tracking-widest uppercase"
       >
         <Sparkles size={12} className="text-accent-400" />
-        Hello, I'm
+        Hello, This is
       </motion.div>
 
       {/* Name */}
