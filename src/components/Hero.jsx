@@ -11,6 +11,7 @@ const roles = [
   'Data Analyst',
 ]
 
+
 const focusTags = [
   { label: 'QA & Testing', color: '#818CF8', bg: 'rgba(99,102,241,0.12)', border: 'rgba(99,102,241,0.35)' },
   { label: 'Frontend Dev', color: '#C084FC', bg: 'rgba(139,92,246,0.12)', border: 'rgba(139,92,246,0.35)' },
@@ -38,7 +39,7 @@ export default function Hero() {
         className="inline-flex items-center gap-2 mb-6 px-4 py-1.5 rounded-full border border-accent-500/30 bg-accent-500/8 text-accent-300 text-xs font-semibold tracking-widest uppercase"
       >
         <Sparkles size={12} className="text-accent-400" />
-        Hello, I'm
+        Hello, This is
       </motion.div>
 
       {/* Name */}
